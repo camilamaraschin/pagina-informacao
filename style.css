@@ -1,0 +1,34 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center; 
+    
+    
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 49px;
+    line-height:56px; // altura da linha
+    font-weight: normal; //peso da fonte
+    
+}
+
+
+img{
+    width: 592px;
+    margin:auto;
+  
+}
+
+p{
+    color: gray;
+    line-height:28px;
+    
+}
+
+span, a{
+    color: purple;
+}
+a{
+    text-algin: center;
+    margin-left:28px;
+}
